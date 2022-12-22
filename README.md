@@ -10,4 +10,4 @@ I looked at x,y,z
 
 ## my notebook
 
-*[run my colab notebook]https://colab.research.google.com/github/fengcxf/DataScience-stock-2020/blob/main/data_science_notebook.ipynb
+*[run my colab notebook](https://colab.research.google.com/github/fengcxf/DataScience-stock-2020/blob/main/data_science_notebook.ipynb)
